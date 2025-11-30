@@ -1,0 +1,12 @@
+---
+:id: 272306766
+:submitters:
+- :name: Shraav Bhat
+  :email: shraab@wharton.upenn.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-28 00:47:34.012328000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-27 17:47:34.012328000 Z
+:status: processed
+:score: 100.0
